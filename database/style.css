@@ -1,0 +1,37 @@
+.one{
+    text-align: center;
+    background-color: rgb(167, 167, 29);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing:10px ;
+    color: rgb(95, 95, 7);
+}
+.tble1{
+border-spacing: 130px 1px;
+color: rgb(167, 167, 29);
+font-size:20px;
+}
+.table {
+    border-spacing: 130px 1px;
+}
+.button{
+    
+    color: rgb(107, 107, 24);
+}
+.th{
+    text-indent: -20px;
+}
+.th1{
+
+    text-indent: 50px;
+}
+.th2{
+    text-indent: 23px;
+}
+.tble3{
+    background-color: rgb(212, 212, 96);
+ 
+}
+.tble6{
+    background-color: rgb(212, 212, 96);
+ 
+}

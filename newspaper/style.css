@@ -1,0 +1,49 @@
+.num {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.one>h3 {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 6px;
+}
+
+.td1 {
+    text-transform: uppercase;
+    border-right: 2px solid black;
+    
+
+}
+
+.td2 {
+    
+    border-right: 2px solid black;
+
+}
+
+.two>h2 {
+    text-indent: 50px;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.td4 {
+    border-right: 2px solid black;
+}
+.td5{
+    border-right: 2px solid black;
+}
+.td6{
+text-size-adjust:top ;
+}
+table {
+    width: 100%; /* Set the table width */
+    table-layout: fixed; /* Ensure fixed layout for equal cell width */
+    
+  }
+  td {
+    
+    height: 50px; /* Set height for equal cell height */
+  }
